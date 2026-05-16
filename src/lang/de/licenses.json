@@ -1,0 +1,60 @@
+{
+  "title": "Lizenzbeschreibung",
+  "description": "Diese Lizenz würdigt und unterstützt die Bemühungen von FlyEnv und seinen Autoren. Es soll nicht die Nutzer einschränken, sondern die Achtung der Arbeit und des geistigen Eigentums der Entwickler fördern. Bitte stellen Sie sicher, dass Sie vor der Nutzung von FlyEnv eine gültige Lizenz erhalten.",
+  "restrictions": {
+    "title": "Benutzer ohne Lizenz unterliegen folgenden Einschränkungen:",
+    "items": {
+      "0": "Es können maximal drei Seiten erstellt werden.",
+      "1": "Das KI-Chat-Feature ist nur für einen Testzeitraum von drei Tagen verfügbar.",
+      "2": "Weitere Einschränkungen können für zukünftige Funktionen gelten."
+    }
+  },
+  "howToObtain": {
+    "title": "So erhältst du eine Lizenz",
+    "description": "FlyEnv bietet flexible Möglichkeiten, eine Lizenz zu erwerben. Benutzer können eine der folgenden Methoden wählen:",
+    "methods": {
+      "0": {
+        "title": "Spenden an das Projekt",
+        "description": "Für Spenden ist kein fester Betrag erforderlich, da die wirtschaftliche Situation der Nutzer in den verschiedenen Ländern unterschiedlich ist (z.B., viele Benutzer sind Studenten), wähle bitte einen Betrag, der für dich angemessen ist."
+      },
+      "1": {
+        "title": "Zur Entwicklung beitragen",
+        "description": "Du kannst dich an dem Projekt beteiligen, indem du einen Pull Request einreichst. Unabhängig vom Umfang des Codes zählt jeder Beitrag, solange er das Projekt positiv verbessert (z. B. durch die Korrektur eines Übersetzungsfehlers)."
+      },
+      "2": {
+        "title": "Das Projekt bewerben",
+        "description": "Bewirb FlyEnv, indem du deine Erfahrungen in Artikeln, Videos, Blogs, Vlogs oder Kommentaren teilst. Bevorzugt werden authentische Nutzerbewertungen. Die Inhalte können in jeder Sprache und auf jeder Plattform veröffentlicht werden."
+      }
+    }
+  },
+  "submitInfo": "Nach Abschluss einer der oben genannten Methoden gib bitte die Ergebnisse in das Eingabefeld unten ein und klicke auf die Schaltfläche „Lizenz anfordern“, um deinen Antrag zu übermitteln. Lizenzanfragen werden in der Regel innerhalb von 24 Stunden bearbeitet.",
+  "messageLabel": "Nachricht",
+  "messagePlaceholder": "Bitte gib den Spender, den Spendenlink oder die Bestell-ID ein, wenn du dich für eine Spende entscheidest.\nBitte gib den PR-Link an, wenn du dich für die Teilnahme an der Projektentwicklung entscheidest.\nBitte gib einen Link zu deinem Artikel, Video, Blog, Vlog oder Kommentar an, wenn du dich für die Werbung entscheidest.",
+  "requestButton": "Lizenz anfordern",
+  "refreshButton": "Aktualisiere Status",
+  "licenseActivated": "Lizenz aktiviert",
+  "licenseNoActivated": "Lizenz nicht aktiviert",
+  "licenseInfo": "Die aktuell bereitgestellte Lizenz ist eine permanente Lizenz, jeder Computer entspricht einer Lizenz. Wenn Sie den Computer wechseln, müssen Sie in 'Meine Lizenzen' die UUID des neuen Geräts binden oder eine neue Lizenz beantragen.",
+  "logoutTips": "Sind Sie sicher, dass Sie sich abmelden möchten?",
+  "delBindTips": "Sind Sie sicher, dass Sie die Lizenzbindung an diese UUID aufheben möchten?",
+  "addBindTips": "Sind Sie sicher, dass Sie die Lizenz an diese UUID binden möchten?",
+  "currentLicenseState": "Lizenzstatus auf diesem Gerät",
+  "activeState": "Aktivierungsstatus",
+  "myLicense": "Meine Lizenzen",
+  "loginTips": "Bitte zuerst anmelden",
+  "logingTips": "Anmeldung über GitHub läuft...",
+  "licenseNo": "Lizenznummer",
+  "licenseBindUUID": "Gebundene UUID",
+  "delBind": "Bindung aufheben",
+  "bindCurrentUUID": "Dieses Gerät binden",
+  "licenseDescription": "Lizenzbeschreibung",
+  "loginFail": "Anmeldung fehlgeschlagen",
+  "oauthCanceledTitle": "Autorisierung abgebrochen",
+  "oauthCanceledMessage": "Der Benutzer hat den Autorisierungsprozess abgebrochen",
+  "oauthFailedTitle": "Autorisierung fehlgeschlagen",
+  "oauthFailedMessage": "Autorisierung fehlgeschlagen. Grund: {error}",
+  "oauthFailedByNoAuthCode": "Autorisierungscode nicht erhalten",
+  "oauthTimeout": "Autorisierungs-Timeout",
+  "oauthSuccessTitle": "Autorisierung erfolgreich",
+  "oauthSuccessMessage": "Diese Seite kann geschlossen werden. Bitte kehren Sie zu FlyEnv zurück, um die Lizenzinformationen einzusehen."
+}

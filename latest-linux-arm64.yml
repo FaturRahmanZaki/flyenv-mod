@@ -1,0 +1,11 @@
+version: 4.15.1
+files:
+  - url: FlyEnv-4.15.1.deb
+    sha512: kr6cIE2tACvaWMWqBnyKrDOQ5Rar2cUWRQ1n1VU6wJQIMPysEyn++aXMp9LHCeS20Rea508tw3lSyIz/YxCGNA==
+    size: 132483720
+  - url: FlyEnv-4.15.1.rpm
+    sha512: vojOigAjAFREvoLe1aZp6RUCIeI2bHq33MuVTX+nQouoDOG4sVD4X6+MBTyeqQVj35VOgKfTCjJEqA/dfR2eTw==
+    size: 110821385
+path: FlyEnv-4.15.1.deb
+sha512: kr6cIE2tACvaWMWqBnyKrDOQ5Rar2cUWRQ1n1VU6wJQIMPysEyn++aXMp9LHCeS20Rea508tw3lSyIz/YxCGNA==
+releaseDate: '2026-05-14T14:33:51.969Z'

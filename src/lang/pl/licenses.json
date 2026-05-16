@@ -1,0 +1,60 @@
+{
+  "title": "Opis licencji",
+  "description": "Ta licencja potwierdza i wspiera wysiłki FlyEnv i jego autorów. Jego celem nie jest ograniczanie użytkowników, lecz wspieranie poszanowania dzieł wykonawców i własności intelektualnej. Upewnij się, że otrzymasz ważną licencję przed użyciem FlyEnv do celów komercyjnych.",
+  "restrictions": {
+    "title": "Użytkownicy bez licencji będą podlegali następującym ograniczeniom:",
+    "items": {
+      "0": "Można utworzyć maksymalnie trzy witryny.",
+      "1": "Funkcja czatu AI jest dostępna tylko przez okres próbny trzech dni.",
+      "2": "Dodatkowe ograniczenia mogą mieć zastosowanie do przyszłych funkcji."
+    }
+  },
+  "howToObtain": {
+    "title": "Jak uzyskać licencję",
+    "description": "FlyEnv zapewnia elastyczne sposoby uzyskania licencji. Użytkownicy mogą wybrać jedną z następujących metod:",
+    "methods": {
+      "0": {
+        "title": "Darowizna dla projektu",
+        "description": "Nie ma stałej kwoty na darowizny, biorąc pod uwagę zróżnicowaną sytuację ekonomiczną użytkowników w różnych krajach (np. ., wielu użytkowników to ucznicy), proszę wybrać kwotę wygodną dla Ciebie."
+      },
+      "1": {
+        "title": "Przyczyń się do rozwoju",
+        "description": "Weź udział w projekcie poprzez przesłanie Pull Request. Niezależnie od ilości kodu, o ile poprawi to projekt (e. ., naprawia błąd tłumaczenia), liczy się twój wkład."
+      },
+      "2": {
+        "title": "Promuj projekt",
+        "description": "Promuj FlyEnv dzieląc się swoimi doświadczeniami w artykułach, filmach, blogach, vlogach lub komentarzach. Preferowane są informacje zwrotne dla użytkownika. Treść może być w dowolnym języku i na dowolnej platformie."
+      }
+    }
+  },
+  "submitInfo": "po zakończeniu którejkolwiek z powyższych metod, wypełnij wyniki w polu wejściowym poniżej i kliknij przycisk 'Prośba o licencję', aby złożyć wniosek. Żądania licencji są zwykle przetwarzane w ciągu 24 godzin.",
+  "messageLabel": "Wiadomość",
+  "messagePlaceholder": "Prosimy o przesłanie darowizny, linku darowizny, lub identyfikatora zamówienia podczas wyboru darowizny.\nPrześlij link PR dla tych, którzy decydują się uczestniczyć w tworzeniu projektu.\nProsimy o przesłanie linku do artykułu, filmu, bloga, vlog lub komentarza dla tych, którzy decydują się na promocję.",
+  "requestButton": "Poproś o licencję",
+  "refreshButton": "Odśwież województwo",
+  "licenseActivated": "Licencja aktywowana",
+  "licenseNoActivated": "Licencja nieaktywna",
+  "licenseInfo": "Obecnie udzielana licencja jest licencją stałą, każdy komputer odpowiada jednej licencji. Jeśli zmienisz komputer, musisz powiązać uuid nowego urządzenia w 'Moje licencje' lub ubiegać się o nową licencję.",
+  "logoutTips": "Czy na pewno chcesz się wylogować?",
+  "delBindTips": "Czy na pewno chcesz usunąć powiązanie licencji z tego UUID?",
+  "addBindTips": "Czy na pewno chcesz powiązać licencję z tym UUID?",
+  "currentLicenseState": "Stan licencji na tym urządzeniu",
+  "activeState": "Status Aktywacji",
+  "myLicense": "Moje licencje",
+  "loginTips": "Najpierw się zaloguj",
+  "logingTips": "Logowanie przez GitHub...",
+  "licenseNo": "Numer licencji",
+  "licenseBindUUID": "Powiązany UUID",
+  "delBind": "Usuń powiązanie",
+  "bindCurrentUUID": "Powiąż to urządzenie",
+  "licenseDescription": "Opis licencji",
+  "loginFail": "Logowanie nie powiodło się",
+  "oauthCanceledTitle": "Autoryzacja anulowana",
+  "oauthCanceledMessage": "Użytkownik anulował proces autoryzacji",
+  "oauthFailedTitle": "Autoryzacja nie powiodła się",
+  "oauthFailedMessage": "Autoryzacja nie powiodła się. Przyczyna: {error}",
+  "oauthFailedByNoAuthCode": "Nie otrzymano kodu autoryzacji",
+  "oauthTimeout": "Przekroczono limit czasu autoryzacji",
+  "oauthSuccessTitle": "Autoryzacja powiodła się",
+  "oauthSuccessMessage": "Tę stronę można zamknąć. Wróć do aplikacji FlyEnv, aby zobaczyć informacje o licencji."
+}

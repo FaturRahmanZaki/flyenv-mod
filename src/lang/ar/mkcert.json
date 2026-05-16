@@ -1,0 +1,13 @@
+{
+  "checking": "التحقق من التثبيت...",
+  "isInstalled": "مثبت",
+  "notInstalled": "mkcert غير مثبت",
+  "install": "Install mkcert",
+  "checkAgain": "تحقق مرة أخرى",
+  "recheck": "إعادة التحقق",
+  "installCA": "Install CA",
+  "carootLabel": "مسار جذر CA",
+  "certificates": "الشهادات",
+  "generate": "توليد",
+  "noSSLHosts": "لم يتم تمكين أي مضيف مع SSL. تمكين SSL على المضيف أولاً."
+}

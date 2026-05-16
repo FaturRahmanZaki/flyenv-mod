@@ -1,0 +1,60 @@
+{
+  "title": "Mô tả Giấy phép",
+  "description": "Giấy phép là sự công nhận và ủng hộ cho sự nỗ lực của FlyEnv và các tác giả của nó. Mục đích của nó không phải là hạn chế người dùng mà là nhắc nhở họ tôn trọng những nỗ lực của các nhà phát triển và tuân thủ các điều khoản liên quan khi sử dụng phần mềm. Bằng cách tuân thủ giấy phép, người dùng không chỉ hỗ trợ sự phát triển liên tục của dự án mà còn đóng góp vào tinh thần tin tưởng và hợp tác trong cộng đồng mã nguồn mở.",
+  "restrictions": {
+    "title": "Người dùng không có giấy phép sẽ phải chịu các hạn chế sau:",
+    "items": {
+      "0": "Có thể tạo tối đa ba trang web.",
+      "1": "Tính năng trò chuyện AI chỉ khả dụng trong thời gian dùng thử ba ngày.",
+      "2": "Các hạn chế bổ sung có thể áp dụng cho các tính năng trong tương lai."
+    }
+  },
+  "howToObtain": {
+    "title": "Cách Nhận Giấy phép",
+    "description": "FlyEnv cung cấp các cách linh hoạt để có được giấy phép. Người dùng có thể chọn bất kỳ phương pháp nào sau đây để đăng ký:",
+    "methods": {
+      "0": {
+        "title": "Quyên góp cho Dự án",
+        "description": "Không có số tiền cố định nào được yêu cầu cho các khoản quyên góp. Xem xét tình hình kinh tế khác nhau của người dùng ở các quốc gia khác nhau (ví dụ: nhiều người dùng là sinh viên), vui lòng chọn một số tiền phù hợp với hoàn cảnh của bạn."
+      },
+      "1": {
+        "title": "Đóng góp cho Phát triển",
+        "description": "Tham gia vào dự án bằng cách gửi Yêu cầu Kéo. Bất kể số lượng mã, miễn là nó cải thiện tích cực dự án (ví dụ: sửa lỗi dịch thuật), nó đều đủ điều kiện."
+      },
+      "2": {
+        "title": "Quảng bá Dự án",
+        "description": "Hãy quảng bá FlyEnv bằng cách chia sẻ trải nghiệm thực tế qua bài viết, video, blog, vlog hoặc bình luận. Nội dung có thể bằng bất kỳ ngôn ngữ nào, miễn là công khai trên internet."
+      }
+    }
+  },
+  "submitInfo": "Sau khi hoàn thành bất kỳ phương pháp nào ở trên, vui lòng điền kết quả vào hộp nhập liệu bên dưới và nhấp vào nút 'Yêu cầu Giấy phép' để gửi đơn đăng ký của bạn. Yêu cầu giấy phép được xem xét thủ công, vì vậy hãy kiên nhẫn. Chúng thường được xử lý kịp thời.",
+  "messageLabel": "Tin nhắn",
+  "messagePlaceholder": "Vui lòng gửi người hiến tặng, liên kết quyên góp hoặc ID đơn hàng khi chọn quyên góp.\nVui lòng gửi liên kết PR cho những người chọn tham gia vào phát triển dự án.\nVui lòng gửi liên kết bài viết/video nếu bạn chọn giúp quảng bá dự án",
+  "requestButton": "Yêu cầu Giấy phép",
+  "refreshButton": "Làm Mới Trạng Thái",
+  "licenseActivated": "Giấy phép được kích hoạt",
+  "licenseNoActivated": "Giấy phép chưa được kích hoạt",
+  "licenseInfo": "Giấy phép hiện được cung cấp là giấy phép vĩnh viễn, mỗi máy tính tương ứng với một giấy phép. Nếu bạn thay đổi máy tính, bạn cần liên kết uuid của thiết bị mới trong 'Giấy phép của tôi' hoặc nộp đơn xin giấy phép mới.",
+  "logoutTips": "Bạn có chắc chắn muốn đăng xuất không?",
+  "delBindTips": "Bạn có chắc chắn muốn hủy liên kết giấy phép với UUID này không?",
+  "addBindTips": "Bạn có chắc chắn muốn liên kết giấy phép với UUID này không?",
+  "currentLicenseState": "Trạng thái giấy phép trên thiết bị này",
+  "activeState": "Trạng thái Kích hoạt",
+  "myLicense": "Giấy phép của tôi",
+  "loginTips": "Vui lòng đăng nhập trước",
+  "logingTips": "Đang đăng nhập qua GitHub...",
+  "licenseNo": "Số giấy phép",
+  "licenseBindUUID": "UUID đã liên kết",
+  "delBind": "Hủy liên kết",
+  "bindCurrentUUID": "Liên kết thiết bị này",
+  "licenseDescription": "Mô tả giấy phép",
+  "loginFail": "Đăng nhập thất bại",
+  "oauthCanceledTitle": "Ủy quyền đã bị hủy",
+  "oauthCanceledMessage": "Người dùng đã hủy quy trình ủy quyền",
+  "oauthFailedTitle": "Ủy quyền thất bại",
+  "oauthFailedMessage": "Ủy quyền thất bại. Lý do: {error}",
+  "oauthFailedByNoAuthCode": "Không nhận được mã ủy quyền",
+  "oauthTimeout": "Ủy quyền đã hết thời gian",
+  "oauthSuccessTitle": "Ủy quyền thành công",
+  "oauthSuccessMessage": "Trang này có thể đóng lại. Vui lòng quay lại FlyEnv để xem thông tin giấy phép."
+}

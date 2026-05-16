@@ -1,0 +1,13 @@
+{
+  "checking": "Sprawdzanie instalacji...",
+  "isInstalled": "zainstalowane",
+  "notInstalled": "mkcert nie jest zainstalowany",
+  "install": "Install mkcert",
+  "checkAgain": "Sprawdź ponownie",
+  "recheck": "Sprawdź ponownie",
+  "installCA": "Install CA",
+  "carootLabel": "Ścieżka główna CA",
+  "certificates": "Certyfikaty",
+  "generate": "Wygeneruj",
+  "noSSLHosts": "Nie włączono hostów z SSL. Najpierw włącz SSL na serwerze."
+}
