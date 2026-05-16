@@ -5,7 +5,7 @@ const conf: Configuration = {
   productName: 'FlyEnv Custom',
   executableName: 'FlyEnvCustom',
   buildVersion: '4.15.1',
-  electronVersion: '39.8.7',
+  electronVersion: '36.9.5',
   appId: 'com.local.flyenv.custom',
   asar: true,
   directories: {
